@@ -1,0 +1,1 @@
+---->Validation email and some regular expretion
